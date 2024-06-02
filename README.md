@@ -20,5 +20,5 @@ CREATE TABLE `student` (
 
 ### ****Copy files to htdocs folder****
 
-Download the above files. Create a folder named *student* inside *htdocs* folder in *xampp* directory. Finally, copy the *student* folder inside *htdocs* folder. Now, visit [localhost/student](http://localhost/php-crud-yt-main/index.php in your browser and you should see the application.
+Download the above files. Create a folder named *student* inside *htdocs* folder in *xampp* directory. Finally, copy the *student* folder inside *htdocs* folder. Now, visit [localhost/student](http://localhost/php-crud-yt-main/index.php) in your browser and you should see the application.
 
